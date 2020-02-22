@@ -10,6 +10,7 @@
     "test": "cypress run"
   },
   "dependencies": {
+    "@applitools/eyes-cypress": "3",
     "cypress": "3"
   }
 }
