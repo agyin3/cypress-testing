@@ -5,6 +5,10 @@
   "main": "index.js",
   "author": "Buddy Agyin",
   "license": "MIT",
+  "scripts": {
+    "cypress": "cypress open",
+    "test": "cypress run"
+  },
   "dependencies": {
     "cypress": "3"
   }
